@@ -8,3 +8,6 @@
 ## My contributions include the following:
 ### Popupscene, Pausescene, SettingScene, implemented stack in
 ### Scenemanager. Added dimming mechanic and progress bar.
+
+
+(The code uploaded is only part of the project.)
